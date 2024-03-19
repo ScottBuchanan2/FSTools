@@ -30,6 +30,7 @@
             <experimental>False</experimental>
             <deprecated>False</deprecated>
             <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>
+            <tags>fibersense,poilookup</tags>
         </pyqgis_plugin>
     </plugins>
 </qgis>
