@@ -22,8 +22,8 @@
             <version>0.2.5</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.html</homepage>
-            <file_name>FS_POILookup.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/FS_POILookup.zip</download_url>
+            <file_name>poi_lookup_module.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/poi_lookup_module.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
